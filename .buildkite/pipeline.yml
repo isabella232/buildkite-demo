@@ -1,2 +1,3 @@
 steps:
   - command: node task.js
+    parallelism: 10
